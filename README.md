@@ -1,1 +1,1 @@
-https://jlforem.github.io
+https://jlforem.github.io/jlforem/
