@@ -2,11 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0041C2&background=A7FFF500&center=true&vCenter=true&width=435&lines=BSc+(Hons)+Computer+Science;3rd+Year+Student;Aspiring+Backend+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center"> 🎯 Current Focus</h2>
-
-- **Backend Engineering** (Primary)
-- **Frontend Development** (Learning)
-- Willing to build full-stack applications
+<h2 align="center"> Tech Stack:</h2>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -20,7 +16,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahm4dd&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlforem&size_weight=0.5&count_weight=0.5)
 
 <b><u>Site</u></b><br>
 https://jlforem.github.io/jlforem/
